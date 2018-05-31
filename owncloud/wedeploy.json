@@ -1,4 +1,4 @@
 {
   "id": "owncloud",
-  "image": "owncloud"
+  "image": "owncloud:10"
 }
