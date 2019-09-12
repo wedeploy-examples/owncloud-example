@@ -1,4 +1,7 @@
 {
   "id": "owncloud",
-  "image": "owncloud:10"
+  "image": "owncloud:10",
+  "healthCheck": {
+    "url": "localhost"
+  }
 }
